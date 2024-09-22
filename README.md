@@ -1,6 +1,6 @@
 # Project Background
 
-This project aims to use Excels data analysis and visulisation capabilities to create a comprehenisve dashoard that can provide actionable insights into the sales performance of an online coffee retailer. By analysing customer information, sales orders and product details, the dashboad will enable stakeholders to identify market trends, evaluate customer behabior and make data-driven desisions to optimise sales strategies and improve customer satisfaction. 
+This project aims to use Excels data analysis and visulisation capabilities to create a comprehenisve dashoard that can provide actionable insights into the sales performance of an online coffee retailer. By analysing customer information, sales orders and product details, the dashboad will enable stakeholders to identify market trends, evaluate customer behabior and make data-driven desisions to optimise sales strategies and improve customer satisfaction. Dashboard can be accessed [here](https://github.com/adam-grove/Coffee-Sales-Dashboard-Excel/blob/main/CoffeeSalesDashboard.xlsx)
 
 - **Sales Trends Analysis:** Helps identify patterns over time, enabling prediction of future sales and adjustment of strategies accordingly.
 - **Sales By Country:** Provides insights into geographical performance, allowing for targeted marketing and expansion strategies in high-performing regions.
