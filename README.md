@@ -20,3 +20,5 @@ The downloaded data structure as een below consists of four tables: orders, cust
 # Executive Summary
 
 **Overview of findings**
+
+![Dashboard](ReadMeImages/Dashboard_Image.png)
