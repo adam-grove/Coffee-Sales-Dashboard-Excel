@@ -41,7 +41,6 @@ The downloaded data structure as seen below consists of three tables: orders, cu
 - **UK Absence:** No sales were recorded in the United Kingdom during 2022.
 
 ![Dashboard](ReadMeImages/Dashboard_Image.png)
----
 
 # Recommendations
 ### **Strengthen Loyalty Program**
@@ -61,3 +60,6 @@ The downloaded data structure as seen below consists of three tables: orders, cu
 - **Highlight popular coffee types during peak seasons** to capitalize on seasonal trends and increase sales.
 - **Use sales trend analysis** to identify new product opportunities and optimise inventory management.
 - **Consider introducing limited-edition or seasonal blends** to create excitement and drive customer interest.
+
+# Skills Developed
+Excel Functions: XLOOKUP, IF, MATCH, VLOOKUP, Pivot Tables and Charts, Excel Dashboards, Sales Trend Analysis, Conditional Formatting 
