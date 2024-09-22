@@ -11,7 +11,7 @@ This project aims to use Excels data analysis and visulisation capabilities to c
 
 The downloaded data structure as een below consists of four tables: orders, customers and products.
 
-![ERD](ReadMeImages/ERD.png)
+
 
 **Figure: Entity Relationship diagram of downloaded data**
 
